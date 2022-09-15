@@ -1,2 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 !/.idea/
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/ware.iml
